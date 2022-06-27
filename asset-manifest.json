@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FreeCodeCamp-Markdown-Previewer/static/css/main.bc4784dd.css",
+    "main.js": "/FreeCodeCamp-Markdown-Previewer/static/js/main.4e4f5316.js",
+    "index.html": "/FreeCodeCamp-Markdown-Previewer/index.html",
+    "main.bc4784dd.css.map": "/FreeCodeCamp-Markdown-Previewer/static/css/main.bc4784dd.css.map",
+    "main.4e4f5316.js.map": "/FreeCodeCamp-Markdown-Previewer/static/js/main.4e4f5316.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc4784dd.css",
+    "static/js/main.4e4f5316.js"
+  ]
+}
